@@ -1,2 +1,0 @@
-this is just text!
-will ignore this file with .gitignore
